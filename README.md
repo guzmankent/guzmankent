@@ -1,3 +1,13 @@
-**HELLO GUYS**
-#### (GUZMAN ,KENNETH, 2025) ####
-From Tondo
+Hello Guys 
+**I Am Kenneth**
+
+Coding Language that I want to Learn more
+
+JAVA
+
+PYTHON 
+
+C++ 
+
+and more
+
